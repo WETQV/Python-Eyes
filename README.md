@@ -38,12 +38,12 @@
 
 1.  **Клонирование репозитория (если проект размещен на Git-хостинге):**
     ```bash
-    # git clone https://your-repository-link.git
-    # cd your-project-directory
+    # git clone https://github.com/WETQV/Python-Eyes.git
+    # cd Python-Eyes
     ```
     Если вы просто скачали файл `eyes.py`, перейдите к следующему шагу.
 
-2.  **Создание виртуального окружения (рекомендуется):**
+2.  **Создание виртуального окружения (если хотите):**
     ```bash
     python -m venv venv
     source venv/bin/activate  # Для Linux/macOS
